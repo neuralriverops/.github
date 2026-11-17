@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="NeuralRiverOps — 금강 AI 댐운영 플랫폼" width="100%">
+  <img src="banner.svg" alt="NeuralRiverOps — AI Basin Water Management System" width="100%">
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <b>금강 유역 댐 운영을 돕는 AI 연구 플랫폼입니다.</b><br>
+  <b>AI Basin Water Management System — 유역 댐 운영을 돕는 AI 플랫폼입니다.</b><br>
   관측 자료를 정리하고, 댐 하류 수위를 예측하는 모델을 학습·운영하며,<br>
   수문 DB와 댐 운영 편람에 <b>우리말로 묻고 답할 수 있는</b> 도구를 하나의 화면으로 묶었습니다.
 </p>
@@ -102,7 +102,7 @@ flowchart LR
 ### 💬 [db_sql_llm](https://github.com/neuralriverops/db_sql_llm)
 **수문 DB 자연어 질의 에이전트 (NL2SQL)**
 
-- “용담댐의 2023년 평균 유입량은?” 처럼 **우리말로 질문**하면 SQL을 만들어 실행
+- “A댐의 2023년 평균 유입량은?” 처럼 **우리말로 질문**하면 SQL을 만들어 실행
 - 숫자는 **실제 SQL 결과에서만** 답하고, 실행한 SQL과 결과 표를 함께 보여 줌
 - 자료가 없는 기간이면 대안 기간과 자료 충족률을 안내
 - 읽기 전용 실행과 SQL 검사로 DB를 안전하게 보호
@@ -158,5 +158,5 @@ flowchart LR
 
 <p align="center">
   <sub>🔒 각 저장소는 비공개로 운영됩니다. 접근이 필요하면 조직 관리자에게 문의해 주세요.</sub><br>
-  <sub>Made for the Keum River basin · 금강 유역 댐 운영 AI 연구</sub>
+  <sub>AI Basin Water Management System · 유역 댐 운영 AI 연구</sub>
 </p>
