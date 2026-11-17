@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="NeuralRiverOps — 금강 AI 댐운영 플랫폼">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071631"/>
+      <stop offset="0.6" stop-color="#0B1F44"/>
+      <stop offset="1" stop-color="#1B3A78"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2F63E6" stop-opacity="0"/>
+      <stop offset="0.35" stop-color="#5B8DEF" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#5B8DEF" stop-opacity="0.15"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2F63E6" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#2F63E6" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#5B8DEF" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="320" rx="18" fill="url(#bg)"/>
+  <rect width="1280" height="320" rx="18" fill="url(#grid)"/>
+
+  <!-- river waves -->
+  <path d="M0 250 C 160 220, 320 280, 480 250 S 800 220, 960 250 S 1200 280, 1280 255 V320 H0 Z" fill="url(#water)"/>
+  <path d="M0 250 C 160 220, 320 280, 480 250 S 800 220, 960 250 S 1200 280, 1280 255" fill="none" stroke="url(#wave)" stroke-width="3"/>
+  <path d="M0 275 C 180 250, 340 300, 520 272 S 840 248, 1000 274 S 1210 296, 1280 280" fill="none" stroke="url(#wave)" stroke-width="2" stroke-opacity="0.6"/>
+  <path d="M0 298 C 200 280, 360 315, 560 296 S 880 280, 1040 298 S 1220 312, 1280 302" fill="none" stroke="url(#wave)" stroke-width="1.5" stroke-opacity="0.35"/>
+
+  <!-- neural network motif -->
+  <g stroke="#5B8DEF" stroke-opacity="0.35" stroke-width="1.4">
+    <line x1="930" y1="70" x2="1030" y2="50"/><line x1="930" y1="70" x2="1030" y2="110"/><line x1="930" y1="70" x2="1030" y2="170"/>
+    <line x1="930" y1="140" x2="1030" y2="50"/><line x1="930" y1="140" x2="1030" y2="110"/><line x1="930" y1="140" x2="1030" y2="170"/>
+    <line x1="930" y1="200" x2="1030" y2="110"/><line x1="930" y1="200" x2="1030" y2="170"/>
+    <line x1="1030" y1="50" x2="1130" y2="90"/><line x1="1030" y1="110" x2="1130" y2="90"/><line x1="1030" y1="170" x2="1130" y2="90"/>
+    <line x1="1030" y1="50" x2="1130" y2="160"/><line x1="1030" y1="110" x2="1130" y2="160"/><line x1="1030" y1="170" x2="1130" y2="160"/>
+    <line x1="1130" y1="90" x2="1210" y2="125"/><line x1="1130" y1="160" x2="1210" y2="125"/>
+  </g>
+  <g fill="#0B1F44" stroke="#5B8DEF" stroke-width="2">
+    <circle cx="930" cy="70" r="7"/><circle cx="930" cy="140" r="7"/><circle cx="930" cy="200" r="7"/>
+    <circle cx="1030" cy="50" r="7"/><circle cx="1030" cy="110" r="7"/><circle cx="1030" cy="170" r="7"/>
+    <circle cx="1130" cy="90" r="7"/><circle cx="1130" cy="160" r="7"/>
+  </g>
+  <circle cx="1210" cy="125" r="10" fill="#5B8DEF"/>
+  <circle cx="1210" cy="125" r="18" fill="none" stroke="#5B8DEF" stroke-opacity="0.4" stroke-width="2"/>
+
+  <!-- text -->
+  <g font-family="'Pretendard','Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic','Segoe UI',sans-serif">
+    <text x="72" y="96" fill="#5B8DEF" font-size="18" font-weight="600" letter-spacing="4">KEUM RIVER · AI DAM OPERATION</text>
+    <text x="70" y="158" fill="#FFFFFF" font-size="64" font-weight="800" letter-spacing="-1">NeuralRiverOps</text>
+    <text x="72" y="204" fill="#E6EEFD" font-size="23" font-weight="500">금강 AI 댐운영 플랫폼 — 자료 전처리부터 수위 예측, 자연어 질의까지</text>
+  </g>
+</svg>
