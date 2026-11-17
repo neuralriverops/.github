@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="NeuralRiverOps — AI-Driven Basin Water Management System" width="100%">
+  <img src="banner-v2.svg" alt="NeuralRiverOps — AI-Driven Basin Water Management System" width="100%">
 </p>
 
 <p align="center">
