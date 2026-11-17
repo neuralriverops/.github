@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="NeuralRiverOps — AI Basin Water Management System" width="100%">
+  <img src="banner.svg" alt="NeuralRiverOps — AI-Driven Basin Water Management System" width="100%">
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <b>AI Basin Water Management System — 유역 댐 운영을 돕는 AI 플랫폼입니다.</b><br>
+  <b>AI-Driven Basin Water Management System — 유역 댐 운영을 돕는 AI 플랫폼입니다.</b><br>
   관측 자료를 정리하고, 댐 하류 수위를 예측하는 모델을 학습·운영하며,<br>
   수문 DB와 댐 운영 편람에 <b>우리말로 묻고 답할 수 있는</b> 도구를 하나의 화면으로 묶었습니다.
 </p>
@@ -158,5 +158,5 @@ flowchart LR
 
 <p align="center">
   <sub>🔒 각 저장소는 비공개로 운영됩니다. 접근이 필요하면 조직 관리자에게 문의해 주세요.</sub><br>
-  <sub>AI Basin Water Management System · 유역 댐 운영 AI 연구</sub>
+  <sub>AI-Driven Basin Water Management System · 유역 댐 운영 AI 연구</sub>
 </p>

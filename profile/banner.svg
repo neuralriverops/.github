@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="NeuralRiverOps — AI Basin Water Management System">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="NeuralRiverOps — AI-Driven Basin Water Management System">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#071631"/>
@@ -49,7 +49,7 @@
   <g font-family="'Pretendard','Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic','Segoe UI',sans-serif">
     <text x="72" y="96" fill="#5B8DEF" font-size="18" font-weight="600" letter-spacing="4">AI · MLOPS · LLM FOR DAM OPERATION</text>
     <text x="70" y="158" fill="#FFFFFF" font-size="64" font-weight="800" letter-spacing="-1">NeuralRiverOps</text>
-    <text x="72" y="198" fill="#E6EEFD" font-size="26" font-weight="600">AI Basin Water Management System</text>
+    <text x="72" y="198" fill="#E6EEFD" font-size="26" font-weight="600">AI-Driven Basin Water Management System</text>
     <text x="72" y="230" fill="#9DB8F2" font-size="18" font-weight="400">자료 전처리부터 수위 예측, 자연어 질의까지 하나의 플랫폼에서</text>
   </g>
 </svg>
